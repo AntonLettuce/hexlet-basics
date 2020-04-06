@@ -1,11 +1,11 @@
 <html>
 <head>
 <title>Testing</title>
-<link href="/files/style.css" rel="stylesheet">
-<script src="/files/script.js"></script>
+<link href="./files/style.css" rel="stylesheet">
+<script src="./files/script.js"></script>
 <script src="https://vk.com/files/script.js"></script>
 </head>
 <body>
-<img src="/files/someImg.png">
+<img src="./files/someImg.png">
 </body>
 </html>
